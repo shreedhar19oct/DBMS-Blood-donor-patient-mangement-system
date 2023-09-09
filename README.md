@@ -1,3 +1,7 @@
+## ER-Diagram 
+
+![ER Diagram](https://github.com/shreedhar19oct/DBMS-Blood-donor-patient-mangement-system/assets/73355893/b9d4d260-1b09-405d-b420-de82451c3bc3)
+
 ## Functions
 
 ### Admin
